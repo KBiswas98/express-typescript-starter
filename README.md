@@ -1,4 +1,4 @@
-# Nodejs + Typescript + Webpack app starter
+# Express + Typescript + EsLint app starter
 
 
 clone the repository then:
