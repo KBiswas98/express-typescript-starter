@@ -1,6 +1,5 @@
 # Nodejs + Typescript + Webpack app starter
 
-![img](https://i.imgur.com/lm5HI8a.gif)
 
 clone the repository then:
 
